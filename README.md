@@ -26,9 +26,10 @@ Open http://localhost:8000 from your browser. To access the admin panel, hit the
 The application comes with default admin with email address  && password
 
 Username: admin@admin.com
+
 password: 123456.
 
-If you find any issue. Please free to contact us.
+If you find any issue. Please feel free to contact us.
 
 Thanks
 Sunil
