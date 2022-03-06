@@ -14,6 +14,7 @@ Run the command below to initialize.  Do not forget to configure database detail
 Install node and npm following one of the techniques explained in this link to create and compile the assets of the application.
 
 $ npm install
+
 $ npm run production
 
 Finally, serve the application.
